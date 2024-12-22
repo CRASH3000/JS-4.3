@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1734806715790" clover="3.2.0">
+  <project timestamp="1734806715790" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="6" coveredconditionals="6" methods="12" coveredmethods="12" elements="49" coveredelements="49" complexity="0" loc="31" ncloc="31" packages="1" files="9" classes="9"/>
+    <file name="Arm.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/Arm.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="4" type="stmt"/>
+    </file>
+    <file name="Axe.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/Axe.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+    </file>
+    <file name="Bow.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/Bow.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="12" type="stmt"/>
+    </file>
+    <file name="Knife.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/Knife.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="6" type="stmt"/>
+    </file>
+    <file name="LongBow.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/LongBow.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+    </file>
+    <file name="Staff.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/Staff.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="12" type="stmt"/>
+    </file>
+    <file name="StormStaff.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/StormStaff.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+    </file>
+    <file name="Sword.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/Sword.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="10" type="stmt"/>
+    </file>
+    <file name="Weapon.js" path="/Users/kirill/Documents/git/playground/bhebdps-ojs-master/Домашние задания/4.3 Тестирование кода/src/js/weapons/Weapon.js">
+      <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+      <line num="3" count="50" type="stmt"/>
+      <line num="4" count="50" type="stmt"/>
+      <line num="5" count="50" type="stmt"/>
+      <line num="6" count="50" type="stmt"/>
+      <line num="7" count="50" type="stmt"/>
+      <line num="10" count="47" type="stmt"/>
+      <line num="11" count="47" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="24" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="17" count="17" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="10" type="stmt"/>
+      <line num="20" count="7" type="stmt"/>
+      <line num="23" count="16" type="stmt"/>
+    </file>
+  </project>
+</coverage>
